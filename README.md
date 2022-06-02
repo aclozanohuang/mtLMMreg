@@ -6,7 +6,7 @@ Given a trait matrix, a genotype matrix and a relatedness matrix, two regularize
  - mtlmmlasso implements the mtLMM-L1 estimator which imposes variable selection on the fixed effect parameter matrix
  - mtlmmclust implements the mtLMM-clust estimator which imposes variable selection and traitw-wise clustering on the fixed effect parameter matrix
 
-See mtlmmlasso and mtlmmclust for a detailed description of input, output and options for each method.
+See regmtlmm/mtlmmlasso.py and regmtlmm/mtlmmclust.py for a detailed description of input, output and options for each method.
 
 Note: mtLMMreg builds on the package liMMBo  (https://github.com/HannahVMeyer/limmbo/) whose code is included in the present repository with a minor modification. See folder `limmbo LICENSE and NOTICE' 
 
