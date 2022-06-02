@@ -30,4 +30,4 @@ See require.txt
 
 Examples are provided in the notebook demo-mtlmm-reg.
 
-See regmtlmm/mtlmmlasso.py and regmtlmm/mtlmmclust.py for a detailed description of input, output and options for each method.
+See 'regmtlmm/mtlmmlasso.py' and 'regmtlmm/mtlmmclust.py' for a detailed description of input, output and options for each method.
