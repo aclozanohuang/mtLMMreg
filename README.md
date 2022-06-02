@@ -23,7 +23,7 @@ Download or clone the code provided in the mtLLMreg repository
 
 ## Requirements
 
-See require.txt
+See requires.txt
 
 
 ## Examples
