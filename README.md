@@ -28,4 +28,4 @@ See require.txt
 
 ## Examples
 
-Examples are provided in the notebook demo-mtlmmreg.
+Examples are provided in the notebook demo-mtlmm-reg.
