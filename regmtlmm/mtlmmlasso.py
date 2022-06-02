@@ -21,14 +21,14 @@ def mtlmmlasso(filename_pheno=None, filename_geno=None, filename_relatedness=Non
 
     Arguments:
         filename_pheno (string):       
-            name of the file containing the phenotype matrix 
-            see io/test/data/pheno.csv for format
+            name of the csv file containing the phenotype matrix 
+            see io/test/data/pheno.csv for required format
         filename_geno (string):        
-            name of the file containing the genotype matrix 
-            see io/test/data/genotypes.csv for format 
+            name of the csv file containing the genotype matrix 
+            see io/test/data/genotypes.csv for required format 
         filename_relatedness (string): 
-            name of the file containing the relatedness matrix 
-            see io/test/data/relatedness.csv for format
+            name of the csv file containing the relatedness matrix 
+            see io/test/data/relatedness.csv for required format
         maxiter (int):
             maximum number of algorithm iterations 
         alpha (double):    
