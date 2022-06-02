@@ -4,7 +4,7 @@ mtLMMreg enables regularized multitrait multilocus linear mixed model estimation
 
 Given a trait matrix, a genotype matrix and a relatedness matrix, two regularized estimators are proposed to estimate the fixed effect matrix and the covariance matrices of the genetic and noise components of the linear mixed model:
  - `regmtlmm/mtlmmlasso.py` implements the mtLMM-L1 estimator which imposes variable selection on the fixed effect parameter matrix
- - `regmtlmm/mtlmmclust.py` implements the mtLMM-clust estimator which imposes variable selection and traitw-wise clustering on the fixed effect parameter matrix
+ - `regmtlmm/mtlmmclust.py` implements the mtLMM-clust estimator which imposes variable selection and trait-wise clustering on the fixed effect parameter matrix
 
 See `regmtlmm/mtlmmlasso.py` and `regmtlmm/mtlmmclust.py` for a detailed description of input, output and options for each method.
 
