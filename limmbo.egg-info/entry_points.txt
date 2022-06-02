@@ -1,0 +1,4 @@
+[console_scripts]
+runAssociation = limmbo.bin.runAssociation:entry_point
+runVarianceEstimation = limmbo.bin.runVarianceEstimation:entry_point
+

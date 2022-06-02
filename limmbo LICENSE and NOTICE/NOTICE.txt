@@ -1,0 +1,12 @@
+NOTICE: 
+
+The limmbo code was downloaded from https://github.com/HannahVMeyer/limmbo. 
+
+The following minor motification was made in the file input.py: 
+
+Lines 270-272 were commented out as follows:
+
+#if not any(relatedness, U_relatedness):
+         #   raise MissingInput("Neither relatedness nor eigenvectors of"
+          #          "relatedness matrix are provided")
+

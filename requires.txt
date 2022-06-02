@@ -1,0 +1,10 @@
+numpy>=1.14.5
+scipy>=1.0.0
+matplotlib
+Cython>=0.28.3
+multiprocess
+pathos
+bottleneck>=1.2.1
+scipy-sugar>=1.0.4
+limix==1.0.18
+limix-legacy==0.8.12
