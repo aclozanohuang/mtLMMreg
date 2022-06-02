@@ -32,9 +32,9 @@ def mtlmmclust(filename_pheno=None, filename_geno=None, filename_relatedness=Non
         maxiter (int):
             maximum number of algorithm iterations 
         C1 (double):    
-            L1 penalty parameter controlling the sparsity of the fixed effects matrix  
+            regularization parameter controlling the sparsity of the fixed effects matrix  
         C2 (double):    
-            clustering penalty parameter controlling the trait-wise clustering 
+            regularization parameter controlling the trait-wise clustering 
             
         
 
