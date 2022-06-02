@@ -8,7 +8,7 @@ Given a trait matrix, a genotype matrix and a relatedness matrix, two regularize
 
 See regmtlmm/mtlmmlasso.py and regmtlmm/mtlmmclust.py for a detailed description of input, output and options for each method.
 
-Note: mtLMMreg builds on the package liMMBo  (https://github.com/HannahVMeyer/limmbo/) whose code is included in the present repository with a minor modification. See folder `limmbo LICENSE and NOTICE`. 
+Note: mtLMMreg builds on the package liMMBo  (https://github.com/HannahVMeyer/limmbo/) whose code is included in the present repository with a minor modification. See folder `limmbo LICENSE and NOTICE` for details. 
 
 
 ## Install 
