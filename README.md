@@ -89,5 +89,7 @@ See requires.txt
               noise variance component
           
    
-- Examples are provided in the notebook `demo-mtlmm-reg.ipynb`.
+## Examples
+
+Examples are provided in the notebook `demo-mtlmm-reg.ipynb`.
 
