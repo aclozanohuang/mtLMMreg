@@ -22,7 +22,7 @@ pip3 install "limix<2"
 
 ## Requirements
 
-See requires.txt
+This code was tested on Python 3.8.14. See requires.txt for all requirements
 
 
 ## Usage
