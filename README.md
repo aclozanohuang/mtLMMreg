@@ -17,7 +17,7 @@ Note: mtLMMreg makes use of the package LiMMBo  (https://github.com/HannahVMeyer
 pip3 install "limix<2"
 ```
 
-- Download or clone the code provided in the mtLLMreg repository. Note: Conda and pip installation will be made available once the repository becomes public.
+- Download or clone the code provided in the mtLLMreg repository. 
 
 
 ## Requirements
