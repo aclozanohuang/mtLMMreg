@@ -19,6 +19,10 @@ pip3 install "limix<2"
 
 - Download or clone the code provided in the mtLLMreg repository. 
 
+- Install limmbo
+```bash
+pip3 install limmbo
+```
 
 ## Requirements
 
